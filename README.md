@@ -5,7 +5,7 @@ In this challenge we have been tasked to create a Solidity smart contract that a
 
 ## Usage
 
-A completed Solidity JointSavings smart contract can be found be in file **joint_savings.sol** in the main directory of this repository.
+A completed Solidity **JointSavings** smart contract can be found be in file **joint_savings.sol** in the main directory of this repository.
 
 The contract was complied and delployed in the JavaScript VM (in Remix-Ethereum IDE).
 
